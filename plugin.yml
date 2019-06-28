@@ -1,0 +1,6 @@
+name: CreativeHotbar
+main: io.github.bananapuncher714.creative.hotbar.CreativeHotbar
+version: 1.0
+description: Cycle through your inventory with CTRL+Q and Q
+api-version: 1.13
+author: BananaPuncher714
