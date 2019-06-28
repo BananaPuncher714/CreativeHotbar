@@ -12,5 +12,5 @@ Allows players to shift their entire inventory up or down a row
 - 1.14.3
 
 ### Demo:
-![inventory](https://i.imgur.com/r0FolsX.png)
-[Video here](https://i.imgur.com/0By3D3z.mp4)
+![inventory](https://i.imgur.com/r0FolsX.png)  
+![demo](https://i.imgur.com/kd209Y7.gif)
