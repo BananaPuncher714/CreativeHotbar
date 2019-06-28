@@ -14,3 +14,6 @@ Allows players to shift their entire inventory up or down a row
 ### Demo:
 ![inventory](https://i.imgur.com/r0FolsX.png)  
 ![demo](https://i.imgur.com/kd209Y7.gif)
+
+### Download:
+Download the latest versions [here](https://github.com/BananaPuncher714/CreativeHotbar/releases)
